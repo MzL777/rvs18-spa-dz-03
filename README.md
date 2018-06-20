@@ -1,7 +1,6 @@
-# rvs18-spa-dz-02
-## Domaća zadaća 02 za SPA u 2018
+# rvs18-spa-dz-03
+## Domaća zadaća 03 za SPA u 2018
 ### ROK PREDAJE: 25.6.2018. 08:59
-SPA domaća zadaća 03
 Cilj ove domaće zadaće je osnažiti studentovo znanje rada s algoritmima traženja.
 ### Zadatak 1 (max 1 bod iz ishoda 4)
 U prilogu je aplikacija kakvu trebate napraviti (Zadatak1.exe), a sastoji se od sljedećeg: prilikom
